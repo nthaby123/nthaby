@@ -20,7 +20,7 @@ public Module16(String name, int year, String gender, int currentY) {
 this.name = name;
 this.year = year;
 this.gender = gender;
-
+this.currentY= currentY;
 }
 
 //overload constructors
